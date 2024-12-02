@@ -20,4 +20,6 @@ Repo of Awesome InfoSec Advent fun.
 
 - [Advent of Cybersecurity 2024](https://www.manageengine.com/log-management/advent-of-cybersecurity.html)
 
-  
+### Secuinfra 2024 Advent CTF
+
+[Secinfra 2024 Advent CTF](https://www.secuinfra.com/en/news/cyber-defense-meets-christmas-spirit-the-secuinfra-ctf-advent-calendar/)

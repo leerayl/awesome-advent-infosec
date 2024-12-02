@@ -16,7 +16,7 @@ Repo of Awesome InfoSec Advent fun.
 
 - [CyberSecureFox's Guide to Advent 2024](https://cybersecurefox.com/en/advent-of-cyber-2024/)
 
-### ManageEngine's Advent of Cybersecurity
+### ManageEngine's Advent of Cybersecurity 2024
 
 - [Advent of Cybersecurity 2024](https://www.manageengine.com/log-management/advent-of-cybersecurity.html)
 

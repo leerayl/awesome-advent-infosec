@@ -15,3 +15,9 @@ Repo of Awesome InfoSec Advent fun.
 ### CyberSecureFox's Advent guide for TryHackMe 2024
 
 - [CyberSecureFox's Guide to Advent 2024](https://cybersecurefox.com/en/advent-of-cyber-2024/)
+
+### ManageEngine's Advent of Cybersecurity
+
+- [Advent of Cybersecurity 2024](https://www.manageengine.com/log-management/advent-of-cybersecurity.html)
+
+  

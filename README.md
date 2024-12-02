@@ -12,4 +12,6 @@ Repo of Awesome InfoSec Advent fun.
 - [OSINT Switzerland](https://ctf.osintswitzerland.ch/)
 - [Osmosis Association](https://osmosis.ctfd.io/)
 
+### CyberSecureFox's Advent guide for TryHackMe 2024
 
+- [CyberSecureFox's Guide to Advent 2024](https://cybersecurefox.com/en/advent-of-cyber-2024/)
